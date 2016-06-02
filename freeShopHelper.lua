@@ -1,4 +1,4 @@
-local keyUrl = "https://3ds.titlekeys.com/downloadenc"
+local keyUrl = "http://github.com/Athemoe/freeShop-helper/raw/master/encTitleKeys.bin"
 local keyPath = "/freeShop/encTitleKeys.bin"
 local green = Color.new(0,255,0)
 local red = Color.new(255,0,0)
